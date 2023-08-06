@@ -30,3 +30,12 @@ docker/*
 
 !docker/Dockerfile
 !docker/docker-compose.yml
+templates/page/blocks/.DS_Store
+templates/page/.DS_Store
+templates/.DS_Store
+temp/.DS_Store
+static/.DS_Store
+.DS_Store
+.obsidian/app.json
+.obsidian/appearance.json
+*.json
